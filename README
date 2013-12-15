@@ -25,4 +25,4 @@ FEAPB has been developed in full compliance with ISO C++11 and the use of follow
 	Boost 1.5.4		http://www.boost.org/		Boost (BSL)          
 	QCustomPlot 1.0.1	http://www.qcustomplot.com/	GPL
 	
-The user-interface (FEAPB.exe) has been successfully tested on Windows 7 and Windows 8. The run-time libraries provided are for MS Windows.
+The user-interface (FEAPB.exe) has been successfully tested on Windows 7, Windows 8 and Windows 8.1. The run-time libraries provided are for MS Windows.
