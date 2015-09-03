@@ -1,4 +1,4 @@
-FEAPB 1.0
+# FEAPB 1.0
 
 FEAPB (Finite Element Analysis of Piezoelectric Beams) is a software for solving linear static, modal and dynamic three-dimensional piezoelectric beam problems. FEAPB is the outcome of an Erasmus Mundus project on "Higher Order Finite Elements for Piezoelectric Energy Harvesting Beams" (find the theory in the directory "Theory_Behind_FEAPB"), carried out at the Civil & Computational Engineering Centre, Swansea University, Swansea, UK.
 
