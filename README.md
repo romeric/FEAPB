@@ -14,9 +14,6 @@
 	
 The user-interface (FEAPB.exe) has been successfully tested on Windows 7, Windows 8 and Windows 8.1. The run-time libraries provided are for MS Windows.
 
-### References
-Roman Poya, A. J. Gil and P. D. Ledger, A computational framework for the analysis of linear piezoelectric beams using hp-FEM, *Computers and Structures*, DOI: [10.1016/j.compstruc.2015.01.012](dx.doi.org/10.1016/j.compstruc.2015.01.012)
-
 ### License
 
 
@@ -34,3 +31,7 @@ Roman Poya, A. J. Gil and P. D. Ledger, A computational framework for the analys
 
 *You should have received a copy of the GNU General Public License*
 *along with this program.  If not, see <http://www.gnu.org/licenses/>.*
+
+
+### References
+Roman Poya, A. J. Gil and P. D. Ledger, A computational framework for the analysis of linear piezoelectric beams using hp-FEM, *Computers and Structures*, DOI: [10.1016/j.compstruc.2015.01.012](dx.doi.org/10.1016/j.compstruc.2015.01.012)
