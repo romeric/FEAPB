@@ -1,9 +1,9 @@
 # FEAPB 1.0
 
-**FEAPB** (**F**inite **E**lement **A**nalysis of **P**iezoelectric **B**eams) is a software for solving linear static, modal and dynamic three-dimensional piezoelectric beam problems. FEAPB is the outcome of an Erasmus Mundus project on "Higher Order Finite Elements for Piezoelectric Energy Harvesting Beams" (find the theory in the directory "Theory_Behind_FEAPB"), carried out at the Civil & Computational Engineering Centre, Swansea University, Swansea, UK.
+**FEAPB** (**F**inite **E**lement **A**nalysis of **P**iezoelectric **B**eams) is a software for solving linear static, modal and dynamic three-dimensional piezoelectric beam problems. FEAPB is the outcome of a European Erasmus Mundus project on "Higher Order Finite Elements for Piezoelectric Energy Harvesting Beams" (find the theory in the directory "Theory_Behind_FEAPB"), carried out at the Civil & Computational Engineering Centre in Swansea University, UK.
 
 ## Disclaimer
-**FEAPB** has been specifically designed to be used as a *GUI-based application* and not as a *front-end API*, for educational purposes. Although, pull requests, patches and bug reports are always welcome, the source code is distributed just for convenience as part of the open-source license.
+**FEAPB** has been specifically designed to be used as a *GUI-based application* and not as a *front-end API*, and solely for educational purposes. Although, pull requests, issues and bug reports are always welcome, the source code is distributed just for convenience as part of the open-source license.
 
 **FEAPB** has been developed in full compliance with ISO C++11 and the use of following open-source graphical/numerical linear algebra libraries is highly appreciated:
 
